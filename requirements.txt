@@ -1,0 +1,11 @@
+'''The dashboard is made up of usinhg Plotly,Pandas and Dash and all the other libraries which i 
+have used i am giving you the code below '''
+
+'''
+import pandas as pd
+import dash
+from dash import dcc, html
+from dash.dependencies import Input, Output
+import plotly.express as px
+import plotly.graph_objects as go
+'''
